@@ -1,2 +1,1 @@
-# predictivewellness
-AI Healthcare Webpage 
+
